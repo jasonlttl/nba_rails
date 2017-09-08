@@ -24,6 +24,7 @@ gem 'omniauth-facebook'
 gem 'omniauth-google-oauth2'
 gem 'omniauth-github'
 gem 'activerecord-import'
+gem 'axlsx'
 
 group :development, :test do
   gem 'byebug'

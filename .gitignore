@@ -15,3 +15,9 @@
 
 # Ignore application configuration
 /config/application.yml
+
+# Ignore xlsx files 
+*.xlsx
+
+# Ignore Rubymine files
+.idea
